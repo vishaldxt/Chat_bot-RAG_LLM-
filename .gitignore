@@ -1,0 +1,8 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+
+# Ignore temporary files created by the app
+temp_pdf.pdf
